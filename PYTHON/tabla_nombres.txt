@@ -1,0 +1,5 @@
+Nombre              Apellidos (2 apellidos)       Edad                Mascotas (nombre de la mascota si tienen)
+Laia                Culebras Martínez             22                  No                  
+Mark                Burdun                        22                  No                  
+Aiyi                Díaz Hernández                21                  No                  
+Daniel              Corral Fernández              22                  Niebla              
